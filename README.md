@@ -2,6 +2,10 @@
 
 Workout Wizard is an advanced fitness application built with React, offering a range of features to help users explore exercises, target specific muscle groups, and create personalized workout routines. This app stands out for its extensive exercise database, clean user interface using Material UI v5, and efficient data retrieval via RapidAPI.
 
+## Demo
+
+Explore the [Workout Wizard Demo](https://youtu.be/G2PXYidEuYU) to see the application in action.
+
 ## Key Features
 
 - **Exercise Categories:** Users can select from various exercise categories catering to different fitness goals and preferences.
